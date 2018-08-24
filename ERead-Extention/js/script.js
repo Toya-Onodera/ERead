@@ -31,7 +31,7 @@
 		response => {
 			// 機能の使用できないようにする
 			if (typeof response === 'undefined') {
-				//isEReadUse = false
+				isEReadUse = false
 				useText = '機能を使用できるページではありません。'
 			}
 
