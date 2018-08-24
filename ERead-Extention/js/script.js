@@ -57,7 +57,7 @@
 
 			// コピー完了のアラート表示
 			if ( isCopy ) {
-				Alert.show('翻訳中です。')
+				Alert.show('コピーしました。')
 
 				setTimeout(() => {
 					Alert.hide()
