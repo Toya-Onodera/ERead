@@ -2,7 +2,7 @@ chrome.runtime.onMessage.addListener( function ( message, sender, sendResponse )
 	let returnText = ''
 	
 	if ( message.targetUrl ) {
-		let url = message.targetUrl
+		const url = message.targetUrl
 		returnText = '文章を取得することができませんでした。'
 
 		// 念の為、URLをチェックしておく
@@ -17,18 +17,13 @@ chrome.runtime.onMessage.addListener( function ( message, sender, sendResponse )
 				beforeText = beforeText.replace(new RegExp(replaceText, 'g'), ' ')
 			})
 
-
 			// 改行を入れて読みやすくする
 			returnText = beforeText.replace(/<br>/g, '\n')
 			                       .replace(/\./g, '.\n')
 			                       .replace(/\?/g, '?\n')
 		}
-	
-		else {
-			returnText = '使用できるページではありません。'
-		}
 	}
 
 	// 拡張機能側に返す
-	sendResponse( returnText )
+	sendResponse(returnText)
 })
