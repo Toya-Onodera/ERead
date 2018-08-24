@@ -8,8 +8,13 @@
 
 	"browser_action": {
 		"default_title": "ERead",
-		"default_popup": "popup.html",
-		"default_icon": "./contents_image/icon.png"
+		"default_popup": "popup.html"
+	},
+
+	"icons" : {
+		"16" : "./contents_image/icon-16.png",
+		"48" : "./contents_image/icon-48.png",
+		"128" : "./contents_image/icon-128.png"
 	},
 
 	"permissions": [
