@@ -11,13 +11,14 @@
 
 		chrome.tabs.sendMessage(tab[0].id, { targetUrl: tab[0].url },
 		response => {
+			// 英文を表示
 			useText = response
 			output_element.innerText = useText
 		})
 
 	})
 
-	// コピー
+	// ボタンをクリックしたときコピーを実行
 	copyButton_element.addEventListener('click', () => {
 		let range = document.createRange(),
 		    selection = window.getSelection()
