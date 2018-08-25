@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/11432913/44605309-c78c9100-a823-11e8-83b7-fba43926f240.png" alt="ヘッダー画像" width=300px>   
-ぎゅっと e のリーディング本文を取得、翻訳を行うことができる Google Chrome の拡張機能です。   
-<font color="DeepPink">※ Chrome ウェブストアからのインストールを推奨</font>  
+ぎゅっと e のリーディング本文を取得、翻訳を行うことができる Google Chrome の拡張機能です。  
+
+**Chrome ウェブストアからのインストールを推奨します。**
   
 ## インストール方法
 
