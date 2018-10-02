@@ -1,7 +1,7 @@
 {
 	"name": "ERead",
 	
-	"description" : "This extension is reading for Gyuto-e (この拡張機能はぎゅっとeの英文を抜き出す拡張機能です。)",
+	"description" : "この拡張機能はぎゅっとeの英文を抜き出す拡張機能です。",
 	
 	"version": "1.0",
 	"manifest_version": 2,
