@@ -6,9 +6,9 @@
 ## インストール方法
 
 #### Chrome ウェブストアからインストールする場合
-[https://chrome.google.com/webstore/detail/iejbchifegkjimjobgmmmpgoiomcdihg/publish-delayed](https://chrome.google.com/webstore/detail/iejbchifegkjimjobgmmmpgoiomcdihg/publish-delayed) にアクセスをし、インストールを行ってください。  
+[https://chrome.google.com/webstore/detail/eread/iejbchifegkjimjobgmmmpgoiomcdihg?hl=ja](https://chrome.google.com/webstore/detail/eread/iejbchifegkjimjobgmmmpgoiomcdihg?hl=ja) にアクセスをし、インストールを行ってください。  
 
-[![インストール先のキャプチャ画面](https://user-images.githubusercontent.com/11432913/46360039-8babdd80-c6a5-11e8-887c-acf4faea19db.PNG)](https://chrome.google.com/webstore/detail/iejbchifegkjimjobgmmmpgoiomcdihg/publish-delayed)
+[![インストール先のキャプチャ画面](https://user-images.githubusercontent.com/11432913/46360039-8babdd80-c6a5-11e8-887c-acf4faea19db.PNG)](https://chrome.google.com/webstore/detail/eread/iejbchifegkjimjobgmmmpgoiomcdihg?hl=ja)
 
 #### ソースファイルからインストールする場合
 1. [https://github.com/Toya-Onodera/ERead/tree/master](https://github.com/Toya-Onodera/ERead/tree/master) にアクセスをして、「Clone or download」 をクリックし、「Download ZIP」 からソースファイルをダウンロードします。  
